@@ -10,4 +10,6 @@
 import Foundation
 
 print("Hello, World!")
+let number = 20
+print(number)
 
